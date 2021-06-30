@@ -1,0 +1,10 @@
+Junit Lab for Drexel CS350
+
+BiYing Pan
+CS350
+Junit Lab
+
+Bugs:
+1) pennies(): penny + 5. in testDepositChange(), one penny, expected: 1, Actual: 6.
+2) depositBills() : one = 100. in testDepositBills(), one bills, expected 1, Actual: 100
+3) purchaseItem(): Insufficient funds in drawer to process change
